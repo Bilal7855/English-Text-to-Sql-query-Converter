@@ -1,6 +1,6 @@
-# SQL Query Generator and Executor
+# English Text to SQL Query Converter
 
-This Streamlit application leverages Google's Gemini AI to convert natural language questions into SQL queries and execute them on a SQLite database. The application provides an interactive interface where users can input their questions, and the AI model generates and executes the corresponding SQL queries.
+This Streamlit application uses Google's Gemini AI to convert natural language questions into SQL queries and execute them on a SQLite database. The application provides an interactive interface where users can input their questions in English, and the AI model generates and executes the corresponding SQL queries.
 
 ## Features
 
@@ -21,5 +21,5 @@ This Streamlit application leverages Google's Gemini AI to convert natural langu
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Bilal7855/English-Text-to-Sql-query-Converter.git
+   cd English-Text-to-Sql-query-Converter
